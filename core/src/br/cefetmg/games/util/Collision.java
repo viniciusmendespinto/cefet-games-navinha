@@ -18,6 +18,7 @@ public class Collision {
      * @return true se há colisão ou false, do contrário.
      */
     public static final boolean circlesOverlap(Circle c1, Circle c2) {
+        //oi
         return false;
     }
 
